@@ -7,3 +7,5 @@ opencv
 scikit-learn
 flask
 unicorn
+seaborn
+pickle
