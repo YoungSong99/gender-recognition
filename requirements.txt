@@ -9,3 +9,4 @@ flask
 unicorn
 seaborn
 pickle
+scikit-learn
